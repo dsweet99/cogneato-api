@@ -1,3 +1,14 @@
+"""
+API for Cogneato, a tool for experimental optimization.
+Optimize expensive, noisy metrics over continuous, categorical, and ordinal parameters.
+
+See:
+ https://cogneato.xy
+ https://github.com/dsweet99/cogneato-apiz
+"""
+
+__version__ = "0.2"
+
 import time
 from dataclasses import dataclass
 

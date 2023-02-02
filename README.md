@@ -7,5 +7,5 @@ Optimize noisy metrics over continuous, categorical, and ordinal parameters.
 
 See:  
  - https://cogneato.xyz
- - https://github.com/cogneato-xyz/cogneato-api
+ - https://github.com/dsweet99/cogneato-api
  
